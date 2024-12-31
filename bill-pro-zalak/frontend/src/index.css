@@ -1,0 +1,19 @@
+/* Add this to your index.css or any global CSS file */
+
+/* index.css */
+body {
+  background-image: url('/public/images/background.jpeg'); /* Corrected path to the public folder */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
